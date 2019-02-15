@@ -5,13 +5,12 @@ body {
     color: black;
     background-color: #cc0c2e
 }
-/*h1 {*/
-    /*font-family: Andale Mono, Monospaced*/
-/*}*/
-/*h3 {*/
-    /*font-family: Helvetica, Geneva, Arial,*/
-    /*SunSans-Regular, sans-serif*/
-/*}*/
+h1 {
+    font-size: 250%;
+}
+h3 {
+    font-size: 120%;
+}
 /*h4 {*/
     /*font-family: Times, serif*/
 /*}*/
