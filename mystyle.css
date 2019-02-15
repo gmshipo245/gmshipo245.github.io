@@ -1,16 +1,19 @@
 body {
-    font-family: Georgia, "Times New Roman",
+    /*font-family: Georgia, "Times New Roman",*/
+    font-family: Andale Mono, Monospaced,
     Times, serif;
     color: black;
     background-color: #cc0c2e
 }
-h1 {
-    font-family: Helvetica, Geneva, Arial,
-    SunSans-Regular, sans-serif
-}
-h3 {
-    font-family: Helvetica, Geneva, Arial,
-    SunSans-Regular, sans-serif
-}
+/*h1 {*/
+    /*font-family: Andale Mono, Monospaced*/
+/*}*/
+/*h3 {*/
+    /*font-family: Helvetica, Geneva, Arial,*/
+    /*SunSans-Regular, sans-serif*/
+/*}*/
+/*h4 {*/
+    /*font-family: Times, serif*/
+/*}*/
 
 
