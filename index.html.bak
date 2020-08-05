@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gregory Shipowitz</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <meta name="viewport" content="width=device-width">
+      <style>
+        img {
+          max-width: 100%;
+        }
+      </style>
+  </head>
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather" />
+  
+
+  <body>
+  <h1><center>Gregory Shipowitz</center></h1>
+    <div class="topnav">
+      <a class="active" href="#home">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="resume.html">Resume</a>
+    </div>
+
+    <center><h1>Work in Progress</h1></center>
+  </body>
+</html>
+
